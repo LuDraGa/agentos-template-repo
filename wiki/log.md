@@ -21,3 +21,7 @@ Grow and the Socratic-sparring method to its origin. Updated [index](index.md) a
 [overview](overview.md). Deliberately created no projects/decisions (not established
 by the material); *Flawless Consulting* held as reference (TOC only); FDE lecture read
 from a rendered image (no machine-readable text).
+
+## 2026-10-02 — LINT
+Step 3 structural validation: all seven [shared skills](../.agents/skills/) passed the installed DSH parser; seven [eval sets](../ops/evals/skills/) contain 14 positive and 7 negative cases. Checked 103 local links/heading anchors and coverage of all 11 indexed content pages; no structural defects found, no raw changes or corrective wiki edits.
+Scope: filesystem/routing-document sanity, not a full semantic knowledge audit or live behavioural trials. Authority: [SCHEMA](../SCHEMA.md).
