@@ -1,0 +1,13 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Obsidian local UI state (keep the rest of .obsidian/ versioned)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Editor / temp files
+*.swp
+*.tmp
+*~
